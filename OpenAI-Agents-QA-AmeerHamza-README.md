@@ -11,6 +11,7 @@
 ## ᵍ Introduction
 
 This document contains my research-based answers to important foundational and intermediate-level questions related to the OpenAI Agents SDK. The goal of this self-assigned exercise was to explore the official documentation thoroughly and solidify my understanding of the key components, behaviors, and tools provided by the SDK.
+
 ---
 
 ## ✅ Questions & Answers
