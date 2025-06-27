@@ -11,9 +11,6 @@
 ## ᵍ Introduction
 
 This document contains my research-based answers to important foundational and intermediate-level questions related to the OpenAI Agents SDK. The goal of this self-assigned exercise was to explore the official documentation thoroughly and solidify my understanding of the key components, behaviors, and tools provided by the SDK.
-
-Each answer is based directly on concepts found in the official documentation and real use cases, **not from ChatGPT**. The intention is to develop hands-on understanding that will help in future implementation of agentic workflows and collaborative tool-based AI systems.
-
 ---
 
 ## ✅ Questions & Answers
